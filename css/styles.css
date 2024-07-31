@@ -1,0 +1,17 @@
+body {
+    padding: 20px;
+}
+
+#map {
+    height: 400px;
+    width: 100%;
+}
+
+#buscar, #generar {
+    margin-top: 20px;
+    margin-right: 10px;
+}
+
+#resultados {
+    margin-top: 20px;
+}
